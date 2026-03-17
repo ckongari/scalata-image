@@ -44,3 +44,6 @@
 
 - https://raw.githubusercontent.com/ckongari/scalata-image/main/images/settings/click-to-CRUD-of-users.png : Navigating to the Users management view.
   - **What this image represents**: Clicking on the **Users** option to access the view where you can create, read, update, or delete users.
+
+  - https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/click-to-view-or-add-departments.png : View or add departments.
+  - **What this image represents**: Clicking to open the **Departments** section where org departments can be viewed or added.

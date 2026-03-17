@@ -31,9 +31,6 @@
 - https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/click-to-view-news-sources.png : Navigate to News Sources.
   - **What this image represents**: Clicking the **News Sources** tab or card in the Data Marketplace.
 
-- https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/click-to-view-or-add-departments.png : View or add departments.
-  - **What this image represents**: Clicking to open the **Departments** section where org departments can be viewed or added.
-
 - https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/click-to-view-prompt-library.png : Navigate to Prompt Library.
   - **What this image represents**: Clicking the control that opens the **Prompt Library** in the Data Marketplace.
 
@@ -57,3 +54,9 @@
 
 - https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/click-to-manage-foundational-models.png : Manage foundational models.
   - **What this image represents**: Clicking the **Manage Foundational Models** entry to configure or organize available base models.
+
+- https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/model-view-for-selecting-item-to-add-data-marketplace.png : Model view for selecting what to add.
+  - **What this image represents**: The **“Add New Item”** modal where you choose whether to add a Data Source, Augmentation Source, News Source, Prompt Library entry, or Foundational Model.
+
+- https://raw.githubusercontent.com/ckongari/scalata-image/main/images/data-marketplace/news-sources-view-in-data-marketplace.png : News Sources view in Data Marketplace.
+  - **What this image represents**: The **News Sources** tab showing configured news APIs / feeds and their status.
