@@ -29,3 +29,22 @@ Image Explanation - URL
 27. Click Department (view/add departments) - https://raw.githubusercontent.com/ckongari/scalata-image/main/click-to-view-or-add-departments.png
 28. Open Prompt Library (Data Marketplace tab) - https://raw.githubusercontent.com/ckongari/scalata-image/main/click-to-view-prompt-library.png
 29. Click “Enter a prompt here” (chat input field) - https://raw.githubusercontent.com/ckongari/scalata-image/main/main-chat-input-field.png
+30. Dashboard view - https://raw.githubusercontent.com/ckongari/scalata-image/main/dashboard-view.png
+31. Portfolio view - https://raw.githubusercontent.com/ckongari/scalata-image/main/portfolio-view.png
+32. Document AI view - https://raw.githubusercontent.com/ckongari/scalata-image/main/document-ai-view.png
+33. Profile view - https://raw.githubusercontent.com/ckongari/scalata-image/main/profile-view.png
+34. Users view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/users-view-in-settings.png
+35. Organization information view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/organization-information-view-in-settings.png
+36. Notification view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/notification-view-in-settings.png
+37. Department view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/department-view-in-settings.png
+38. Analytics view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/analytics-view-in-settings.png
+39. Security view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/security-view-in-settings.png
+40. Licenses & Billing view in Settings - https://raw.githubusercontent.com/ckongari/scalata-image/main/licenses-billing-view-in-settings.png
+41. Data Sources view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/data-sources-view-in-data-marketplace.png
+42. Augmentation Data Sources view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/augmentation-data-sources-view-in-data-marketplace.png
+43. News Sources view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/news-sources-view-in-data-marketplace.png
+44. Foundational Models view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/foundational-models-view-in-data-marketplace.png
+45. Prompt Library view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/prompt-library-view-in-data-marketplace.png
+46. Delta Shares view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/delta-shares-view-in-data-marketplace.png
+47. Local Storage view in Data Marketplace - https://raw.githubusercontent.com/ckongari/scalata-image/main/local-storage-view-in-data-marketplace.png
+48. “Add New Item” modal (select what to add) - https://raw.githubusercontent.com/ckongari/scalata-image/main/model-view-for-selecting-item-to-add-data-marketplace.png
